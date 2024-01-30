@@ -1,0 +1,11 @@
+
+n	java:S116"RRename this field "PLAN_ID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–Û¾Ÿ8æ„–ûÓ1
+t	java:S116"SRename this field "CASE_NUM" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€·’Œøÿÿÿÿ8æ„–ûÓ1
+u	java:S116"TRename this field "PLAN_NAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚ÓèÍıÿÿÿÿ8æ„–ûÓ1
+r	java:S116"VRename this field "PLAN_STATUS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İ™öÒ8æ„–ûÓ1
+w	java:S116"VRename this field "HOLDER_NAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢àùùÿÿÿÿ8æ„–ûÓ1
+q	java:S116"URename this field "HOLDER_SSN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ìê’œ8æ„–ûÓ1
+r	java:S116"VRename this field "BENEFIT_AMT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñ–Îó8æ„–ûÓ1
+q	java:S116"URename this field "START_DATE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñ·œ¤8æ„–ûÓ1
+o	java:S116"SRename this field "END_DATE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(è¡Ïö8æ„–ûÓ1
+s	java:S116"WRename this field "DENIAL_REASN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É—˜·8ƒÁ—ûÓ1
