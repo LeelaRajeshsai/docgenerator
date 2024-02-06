@@ -17,15 +17,15 @@ import java.time.LocalDate;
 @NoArgsConstructor
 public class EligibilityDtls {
     @Id
-    private int PLAN_ID;
-    private long CASE_NUM;
-    private String PLAN_NAME;
-    private boolean PLAN_STATUS;
-    private String HOLDER_NAME;
-    private long HOLDER_SSN;
-    private double BENEFIT_AMT;
-    private LocalDate START_DATE;
-    private LocalDate END_DATE;
-    private String DENIAL_REASN;
+    private int eligID;
+    private Long caseNum;
+    private String planName;
+    private String planStatus;
+    private Double benefitAmt;
+    private LocalDate startDate;
+    private LocalDate endDate;
+    private String denailReason;
 
+    private String holderName;
+    private Long holderSsn;
 }
